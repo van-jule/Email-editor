@@ -1,0 +1,19 @@
+{
+  "emails": [
+    {
+      "text": "text text"
+    },
+    {
+      "id": "55fa",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, magni repellendus! A iure repellendus sunt, possimus fuga porro asperiores commodi dolorem ex cumque quam, ullam similique rerum eaque animi modi."
+    },
+    {
+      "id": "9689",
+      "text": "Hello <i>Julia</i>, its a new Email "
+    },
+    {
+      "id": "dd02",
+      "text": "Enter email..."
+    }
+  ]
+}
